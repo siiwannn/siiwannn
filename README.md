@@ -182,9 +182,6 @@ Participated in Gemastik 2025 CTF — a national-level university technology com
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025%20%7C%2024%20Challenges-2563EB?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Siiwannn)
 
-**Academic**
-
-[![UNPAM](https://img.shields.io/badge/UNPAM-Information%20Systems-1E3A8A?style=for-the-badge&logo=academia&logoColor=white)](https://unpam.ac.id)
 
 </div>
 
