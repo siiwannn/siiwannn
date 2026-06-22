@@ -127,25 +127,7 @@ This project emerged from a scholarship application requirement and became a ref
 
 </div>
 
-**Independent Bug Bounty Researcher**
-`YesWeHack Platform` · `2026 – Present`
 
-Conducting independent vulnerability research against private and public bug bounty programs with a focus on web application security. Primary targets include fintech and super-app infrastructure in the Indonesian market.
-
-- Researched OTP rate limiting, endpoint enumeration, and token replay vulnerabilities on GoFood/GoTo Financial
-- Tested GraphQL APIs for introspection exposure, parameter-level IDOR, and unauthorized object access
-- Investigated JWT implementation flaws including algorithm confusion and claim injection
-- Performed access control testing across authenticated and unauthenticated API surfaces on Mokapos
-- Documented a valid vulnerability disclosure recognized by Universitas Pamulang IT Bureau
-- Navigating program scope, responsible disclosure timelines, and PoC documentation standards
-
-![Python](https://img.shields.io/badge/Python-1D4ED8?style=flat-square&logo=python&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-1E40AF?style=flat-square&logo=portswigger&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-2563EB?style=flat-square&logo=graphql&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-1E3A8A?style=flat-square&logo=owasp&logoColor=white)
-![Linux](https://img.shields.io/badge/Parrot%20OS-1D4ED8?style=flat-square&logo=linux&logoColor=white)
-
----
 
 **CTF Competitor**
 `Gemastik 2025` · `2025`
