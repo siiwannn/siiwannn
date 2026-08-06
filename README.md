@@ -4,10 +4,8 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&multiline=false&width=700&lines=Offensive+Security+%7C+Web+Exploitation;Bug+Bounty+Hunter+%7C+Pentester;Information+Systems+%40+UNPAM;Still+Learning%2C+Always+Curious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&multiline=false&width=700&lines=Offensive+Security+%7C+Web+Exploitation;Bug+Bounty+Hunter+%7C+Pentester;Information+Systems+;Still+Learning%2C+Always+Curious)](https://git.io/typing-svg)
 
-
-![University](https://img.shields.io/badge/Universitas%20Pamulang-Information%20Systems%20S1-1D4ED8?style=for-the-badge&logo=academia&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-siiwannn.dev-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Siiwannn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -184,8 +182,6 @@ Participated in Gemastik 2025 CTF — a national-level university technology com
 <div align="center">
 
 ## ◈ GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Siiwannn&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=1d4ed8&icon_color=2563eb&title_color=93c5fd&text_color=bfdbfe&hide_border=false&count_private=true&include_all_commits=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siiwannn&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=1d4ed8&title_color=93c5fd&text_color=bfdbfe&hide_border=false&langs_count=8" height="170" />
 
 <br/>
