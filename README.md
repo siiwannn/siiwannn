@@ -182,7 +182,6 @@ Participated in Gemastik 2025 CTF — a national-level university technology com
 <div align="center">
 
 ## ◈ GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siiwannn&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=1d4ed8&title_color=93c5fd&text_color=bfdbfe&hide_border=false&langs_count=8" height="170" />
 
 <br/>
 
