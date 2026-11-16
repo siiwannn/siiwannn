@@ -1,15 +1,10 @@
-
 <img src="https://github.com/user-attachments/assets/4ad2d48d-e3f2-4dd1-a10c-48be7c24eff6">
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF4500&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rijwan+%3C3;Welcome+to+my+profile!" alt="Title"></img>
   </a>
 </div>
-
-
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 
 <h2 align="left">
@@ -104,17 +99,6 @@ I'm **[`Rijwan Maulana`](https://github.com/Siiwannn)**, a Cybersecurity Enthusi
 
 
 
-<h2 id="connect" align=''> Connect ⚡️</h2>
-
-<p align="center">
-<a href="mailto:xxrzwnm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Siiwannn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-
-
-
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
@@ -128,3 +112,5 @@ I'm **[`Rijwan Maulana`](https://github.com/Siiwannn)**, a Cybersecurity Enthusi
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,19&height=120&section=footer&animation=fadeIn" width="100%"/>
