@@ -1,240 +1,130 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,15&height=200&section=header&text=Rijwan%20Maulana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Enthusiast%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Vibe%20Coding&descAlignY=60&descSize=18&descColor=93c5fd" width="100%" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&multiline=false&width=700&lines=Offensive+Security+%7C+Web+Exploitation;Bug+Bounty+Hunter+%7C+Pentester;Information+Systems+;Still+Learning%2C+Always+Curious)](https://git.io/typing-svg)
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-siiwannn.dev-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Siiwannn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xxrzwnm@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Siiwannn&color=1d4ed8&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Siiwannn?color=2563EB&style=for-the-badge&logo=github&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Siiwannn?color=1E40AF&style=for-the-badge&logo=github&label=TOTAL+STARS)
-
-</div>
-
----
+<img src="https://github.com/user-attachments/assets/4ad2d48d-e3f2-4dd1-a10c-48be7c24eff6">
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 <div align="center">
-
-## ◈ 🙋About Me
-
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF4500&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rijwan+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  </a>
 </div>
 
-Hi, I'm **Rijwan Maulana**! 👋
-I wanted to be a programmer, turns out I'm more of a vibe coder & Cybersecurity Enthusiast. I'm an Information Systems student who's genuinely passionate about Red Teaming and penetration testing — not there yet, but that's exactly where I'm heading. Currently learning web security and bug bounty hunting one step at a time.
 
-**Open To:** Bug Bounty Collaboration · Security Research · Junior Pentester Roles · Freelance Web Development · Open Source Contribution
-
----
-
-<div align="center">
-
-## ◈ Tech Stack
-
-</div>
-
-<div align="center">
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,bash,html,css,java,php&theme=dark&perline=8)](https://skillicons.dev)
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 
-**Cloud, DevOps & Tooling**
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,vscode,kali&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
----
-
-
-<div align="center">
-
-## ◈ Featured Projects
-
-</div>
-
-<details>
-<summary><b>⬡ XSS-Scanner-DualMode</b> — Automated Cross-Site Scripting Detection Engine</summary>
-
-<br/>
-
-An advanced Python-based XSS scanning tool engineered to operate in both reflected and DOM-based detection modes. Built to integrate into a bug bounty workflow, the scanner supports custom payload injection, response heuristics analysis, and output reporting in formats compatible with PoC submission standards.
-
-<div align="center">
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Python 3, Requests, BeautifulSoup4, Argparse, Colorama |
-| **Scale** | Single-target and bulk URL list support |
-| **Performance** | Concurrent threading — configurable worker pool |
-| **Detection** | Reflected XSS, DOM XSS, polyglot payloads, context-aware injection |
-| **Security** | Passive-safe mode; no destructive payloads by default |
-| **Impact** | Used in live bug bounty recon pipeline |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Source-Siiwannn-2563EB?style=flat-square&logo=github)](https://github.com/Siiwannn) |
-
-</div>
-
-This tool was developed to close the gap between manual XSS testing and scalable automation. The dual-mode architecture separates reflected detection (server-response analysis) from DOM-based detection (in-browser execution context), allowing precise triage without false positive noise. Built on Parrot OS; compatible with any Linux environment.
-
-<br/>
-
-</details>
+I'm **[`Rijwan Maulana`](https://github.com/Siiwannn)**, a Cybersecurity Enthusiast and aspiring Bug Bounty Hunter and Pentester. With a growing passion for technology and interest in web exploitation, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
-<summary><b>⬡ Secure Docker Deployment — SysAdmin/DevOps Architecture</b></summary>
+  <summary>More about me</summary>
 
-<br/>
-
-A 12-slide technical presentation and architecture reference covering production-grade Docker security practices: non-root container execution, multi-stage builds, network isolation policies, Secrets management, and a reference WordPress/MariaDB stack built to enterprise security standards.
-
-<div align="center">
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Docker, Docker Compose, MariaDB, WordPress, GitHub Actions |
-| **Scale** | Multi-container orchestration with defined network segments |
-| **Security** | Non-root UID, read-only filesystems, secret injection via env |
-| **DevOps** | CI/CD pipeline integration — container image scanning |
-| **Audience** | Scholarship panel — IDN Academy Cybersecurity 2026 |
-| **Impact** | Scholarship application technical deliverable |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Source-Siiwannn-2563EB?style=flat-square&logo=github)](https://github.com/Siiwannn) |
-
-</div>
-
-This project emerged from a scholarship application requirement and became a reference architecture for secure container deployment. Every security control documented in the slides is implemented in the accompanying Compose file — this is a working stack, not a theoretical overview.
-
-<br/>
+- **Name**: Rijwan Maulana
+- **Username**: Siiwannn
+- **Bug Bounty Hunter** | **Cybersecurity Enthusiast** | **Vibe Coder**
+- i have experience in **Web Exploitation**,**Bug Bounty**,**Penetration Testing**,**Vibe Coding**
+- Improving knowledge in **Webapp Vulnerabilities** & **Red Teaming**
+- Lifelong learner — always exploring **everything**
+- Reach me out at **xxrzwnm@gmail.com**
 
 </details>
+<br>
 
 ---
 
-<div align="center">
+<h2 id="present_status"> Present Status </h3>
 
-## ◈ Experience
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-</div>
+👉 Still Learning Web Security & Bug Bounty Hunting.
 
+👉 Studying Information Systems at university.
 
+👉 Writing Some Useful Tools For Myself & Communities
 
-**CTF Competitor**
-`Gemastik 2025` · `2025`
+👉 Building & Contributing To Open Source Projects
 
-Participated in Gemastik 2025 CTF — a national-level university technology competition. First CTF experience, still learning the ropes across web, crypto, and forensics categories.
+👉 Currently Learning Red Teaming & Penetration Testing
 
-![CTF](https://img.shields.io/badge/Gemastik-2025-1D4ED8?style=flat-square&logo=hackthebox&logoColor=white)
-
----
-
-## ◈ Achievements
-
-| Recognition | Details |
-|:---:|:---:|
-| 🏴 Valid Bug Disclosure | Vulnerability recognized by Universitas Pamulang IT Bureau |
-| 🎄 TryHackMe AoC 2025 | Completed all 24 Advent of Cyber 2025 challenges |
-| 🏆 Gemastik 2025 CTF | National university CTF competition participant |
-| 🧪 PortSwigger Labs | Web Security Academy — active lab practitioner |
-| 🐍 Published OSS Tooling | XSS-Scanner-DualMode on GitHub |
-
-</div>
+`Updating:`  Journey to Junior Pentester.
 
 ---
 
-<div align="center">
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
-## ◈ Certifications
+<br>
 
-**Universitas Pamulang — IT Bureau**
-
-[![UNPAM](https://img.shields.io/badge/UNPAM-Bug%20Disclosure%20Recognition%20%7C%20Jan%202026-1D4ED8?style=for-the-badge&logo=academia&logoColor=white)](https://unpam.ac.id)
-
-**TryHackMe**
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025%20%7C%2024%20Challenges-2563EB?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Siiwannn)
-
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ Coding Profiles
-
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active%20Learner-2563EB?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Practitioner-1D4ED8?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.com)
-
+<div style="border: 2px solid #FF4500; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=000000" alt="PHP" />
+      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
+      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
+      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+  </div>
 </div>
 
 ---
 
-<div align="center">
 
-## ◈ GitHub Analytics
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+ 
+  [![Siiwannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siiwannn&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/Siiwannn)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Siiwannn&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/Siiwannn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siiwannn&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Siiwannn&theme=tokyonight&background=0d0d1a&border=1d4ed8&ring=2563eb&fire=93c5fd&currStreakLabel=bfdbfe&sideLabels=bfdbfe&currStreakNum=ffffff&sideNums=ffffff&dates=6d28d9" width="600" />
 
-</div>
 
----
+<h2 id="connect" align=''> Connect ⚡️</h2>
 
-<div align="center">
+<p align="center">
+<a href="mailto:xxrzwnm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Siiwannn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-## ◈ Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siiwannn&bg_color=0d0d1a&color=93c5fd&line=1d4ed8&point=2563eb&area=true&area_color=1e3a8a&hide_border=false&border_color=1d4ed8&radius=6" width="100%" />
 
-</div>
 
----
-
-<div align="center">
-
-## ◈ Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ Connect
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-xxrzwnm%40gmail.com-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xxrzwnm@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rijwan%20Maulana-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Siiwannn-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siiwannn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-siiwannn.dev-1D4ED8?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Siiwannn)
-</div>
-
----
-
-<div align="center">
-
-*"Security is not a product. It is a process of thinking like the adversary before they do."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,15&height=120&section=footer&animation=fadeIn" width="100%" />
-
-</div>
+<p align="center">
+  <b><i>"Never give up. Never back down."</i></b>
+</p>
+<p align="center">
+<a>🌱</a>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
