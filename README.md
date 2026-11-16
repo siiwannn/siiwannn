@@ -85,15 +85,15 @@ I'm **[`Rijwan Maulana`](https://github.com/Siiwannn)**, a Cybersecurity Enthusi
 
 ---
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+## GitHub Stats 👨‍💻
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Siiwannn&theme=dark&background=0d0d0d&border=FF4500&ring=FF4500&fire=FF6347&currStreakLabel=FF4500&sideLabels=FF6347&currStreakNum=ffffff&sideNums=ffffff&dates=FF4500" width="600" />
 
 </div>
 
-<div align="center">
+<div align="left">
 
-## ◈ Contribution Activity
+##  Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siiwannn&bg_color=0d0d0d&color=FF6347&line=FF4500&point=B22222&area=true&area_color=8B0000&hide_border=false&border_color=FF4500&radius=6" width="100%" />
 
@@ -108,7 +108,7 @@ I'm **[`Rijwan Maulana`](https://github.com/Siiwannn)**, a Cybersecurity Enthusi
 </p>
 
 <p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
+  <b><i>"Never give up. Never back down 🔥"</i></b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,19&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:8B0000&height=120&section=footer&animation=fadeIn" width="100%"/>
