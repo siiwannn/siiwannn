@@ -1,3 +1,4 @@
+
 <img src="https://github.com/user-attachments/assets/4ad2d48d-e3f2-4dd1-a10c-48be7c24eff6">
 
 <div align="center">
@@ -89,21 +90,26 @@ I'm **[`Rijwan Maulana`](https://github.com/Siiwannn)**, a Cybersecurity Enthusi
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Siiwannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siiwannn&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/Siiwannn)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Siiwannn&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/Siiwannn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siiwannn&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+<img align="center" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+
 
 <br><br>
 
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Siiwannn&theme=dark&background=0d0d0d&border=FF4500&ring=FF4500&fire=FF6347&currStreakLabel=FF4500&sideLabels=FF6347&currStreakNum=ffffff&sideNums=ffffff&dates=FF4500" width="600" />
 
-<p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
+</div>
+
+<div align="center">
+
+## ◈ Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siiwannn&bg_color=0d0d0d&color=FF6347&line=FF4500&point=B22222&area=true&area_color=8B0000&hide_border=false&border_color=FF4500&radius=6" width="100%" />
+
+</div>
+
 </p>
-<p align="center">
-<a>🌱</a>
 </p>
 <p align="center">
   <picture>
@@ -112,5 +118,8 @@ I'm **[`Rijwan Maulana`](https://github.com/Siiwannn)**, a Cybersecurity Enthusi
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<p align="center">
+  <b><i>"Never give up. Never back down."</i>
+  </b>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,19&height=120&section=footer&animation=fadeIn" width="100%"/>
