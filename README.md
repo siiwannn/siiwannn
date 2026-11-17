@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF4500&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rijwan Maulana+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF4500&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rijwan+%3C3;Welcome+to+my+profile!" alt="Title"></img>
   </a>
 </div>
 
