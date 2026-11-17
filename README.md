@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF4500&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rijwan+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF4500&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+siiwanm+%3C3;Welcome+to+my+profile!" alt="Title"></img>
   </a>
 </div>
 
@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Rijwan Maulana`](https://github.com/Siiwannn)**, a Cybersecurity Enthusiast and aspiring Bug Bounty Hunter and Pentester. With a growing passion for technology and interest in web exploitation, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`siiwanm`](https://github.com/Siiwannn)**, a Cybersecurity Enthusiast and aspiring Bug Bounty Hunter and Pentester. With a growing passion for technology and interest in web exploitation, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
   <summary>More about me</summary>
